@@ -23,4 +23,4 @@ Don't forget to add images:
 
 ![wow](https://media.giphy.com/media/eK3fW8S1ai7Li/giphy.gif)
 
-and [Links](https://en.wikipedia.org/wiki/Doge_(meme)
+and [Links](https://en.wikipedia.org/wiki/Doge_(meme))
